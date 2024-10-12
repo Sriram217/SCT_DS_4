@@ -9,7 +9,6 @@ By exploring correlations between these variables, the analysis will help in und
 
 Visualization techniques, such as heatmaps and scatter plots, will be used to illustrate these findings and provide actionable insights for improving road safety.
 
-
-Accident dataset upload process on the GitHub failed because of size(600+mb). So i give the link of the dataset which is in Kaggle.
+Accident dataset upload process on the GitHub failed because of size(680+mb). So i give the link of the dataset which is in Kaggle.
 
 Link for dataset : https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
